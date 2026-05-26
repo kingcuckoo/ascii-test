@@ -6,14 +6,27 @@ Central project tracker. This repo is the home base for tracking ongoing work, a
 
 ## Projects
 
-_Projects will be listed here as they are added._
+### IWE
+**Status:** Early experimentation
+**Goal:** AI-powered writing agent with an experimental structured generation flow. Output delivered as GitHub PRs on markdown files — user reviews inline, agent addresses comments. Covers all writing types: fiction, essays, scripts.
+**Repo:** [kingcuckoo/iwe](https://github.com/kingcuckoo/iwe)
+**MVP:** CLI brief → Claude generates writing → GitHub PR opened → inline review → agent iterates
 
-<!-- Example entry:
-### Project Name
-**Status:** Active | Paused | Done
-**Goal:** One-line description of what this project is trying to accomplish.
-**Repo/Link:** [repo-name](url)
--->
+---
+
+### Vibetrack
+**Status:** MVP in progress
+**Goal:** Snapchat-style life tracking app where AI auto-annotates photos (weight scale, food, gym, selfies). Optimized for speed — camera is the homescreen, annotation is instant and editable.
+**Repo:** [kingcuckoo/vibetrack](https://github.com/kingcuckoo/vibetrack)
+**MVP:** Camera homescreen + grey annotation bar on captured photos (hero use case: weighing scale)
+
+---
+
+### Blender Experiments
+**Status:** Experiment
+**Goal:** Fully automated prompt-to-30-second-clip pipeline using Blender's Python API. Human only does a taste check.
+**Repo:** [kingcuckoo/blender-experiments](https://github.com/kingcuckoo/blender-experiments)
+**MVP:** Parameterizable Python script → Blender renders → mp4 output
 
 ---
 
