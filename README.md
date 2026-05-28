@@ -23,6 +23,14 @@ Entries are newest-first. Format: date, summary, active tasks, any notes worth k
 
 ---
 
+### 2026-05-28
+- **Active tasks:** Daily progress log update (executing)
+- **Completed:** Daily progress log update (2026-05-27), IWE: skill migration, Projects: addition, Blender: pipeline setup, IWE: prototype completion
+- **GitHub activity:** PR #2 open — Add IWE, Vibetrack, and Blender Experiments to Projects; PR #1 open — chore: daily progress log 2026-05-26; 1 commit — "Add README as central project progress tracker"
+- **Notes:** Vibetrack: camera homescreen scaffold blocked on open questions
+
+---
+
 ### 2026-05-26
 
 **Summary:** Set up this repo as a central progress tracker. Established README structure for projects and daily logs.
